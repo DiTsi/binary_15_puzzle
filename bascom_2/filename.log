@@ -1,0 +1,435 @@
+==============================================================================
+= 26.05.2013 19:59:20                                                        =
+==============================================================================
+Printing in progress.
+
+Exception class: EPrinter
+Exception message: Printing in progress.
+Exception address: 0045234E
+------------------------------------------------------------------------------
+Stack list, generated 26.05.2013 19:59:20
+(00051349){bascavr.exe } [00452349]
+(000518BD){bascavr.exe } [004528BD]
+(000518F2){bascavr.exe } [004528F2]
+(000900AA){bascavr.exe } [004910AA]
+(0030A745){bascavr.exe } [0070B745]
+(0048ADAA){bascavr.exe } [0088BDAA]
+(001D7FD2){bascavr.exe } [005D8FD2]
+(001D7F6F){bascavr.exe } [005D8F6F]
+(001D7F2C){bascavr.exe } [005D8F2C]
+(001D8C62){bascavr.exe } [005D9C62]
+(001D76FE){bascavr.exe } [005D86FE]
+(001BCA6C){bascavr.exe } [005BDA6C]
+(001D771F){bascavr.exe } [005D871F]
+(001BCA6C){bascavr.exe } [005BDA6C]
+(001B8B5E){bascavr.exe } [005B9B5E]
+(001B1C01){bascavr.exe } [005B2C01]
+(001B1D3E){bascavr.exe } [005B2D3E]
+(001AAA80){bascavr.exe } [005ABA80]
+(001AAF42){bascavr.exe } [005ABF42]
+(001AB273){bascavr.exe } [005AC273]
+(00493700){bascavr.exe } [00894700]
+(0008FFEB){bascavr.exe } [00490FEB]
+(000900AA){bascavr.exe } [004910AA]
+(0005135A){bascavr.exe } [0045235A]
+(0016F048){bascavr.exe } [00570048]
+(00037828){bascavr.exe } [00438828]
+(00037996){bascavr.exe } [00438996]
+(000380E7){bascavr.exe } [004390E7]
+(00037828){bascavr.exe } [00438828]
+(00037A3B){bascavr.exe } [00438A3B]
+(00038104){bascavr.exe } [00439104]
+(00038563){bascavr.exe } [00439563]
+(00038841){bascavr.exe } [00439841]
+(0005195B){bascavr.exe } [0045295B]
+(0030A745){bascavr.exe } [0070B745]
+(0048ADAA){bascavr.exe } [0088BDAA]
+(001D7FD2){bascavr.exe } [005D8FD2]
+(001D7F6F){bascavr.exe } [005D8F6F]
+(001D7F2C){bascavr.exe } [005D8F2C]
+(001D8C62){bascavr.exe } [005D9C62]
+(001D76FE){bascavr.exe } [005D86FE]
+(001BCA6C){bascavr.exe } [005BDA6C]
+(001D771F){bascavr.exe } [005D871F]
+(001BCA6C){bascavr.exe } [005BDA6C]
+(001B8B5E){bascavr.exe } [005B9B5E]
+(001B1C01){bascavr.exe } [005B2C01]
+(001B1D3E){bascavr.exe } [005B2D3E]
+(001AAA80){bascavr.exe } [005ABA80]
+(001AAF42){bascavr.exe } [005ABF42]
+(001AB273){bascavr.exe } [005AC273]
+(00493700){bascavr.exe } [00894700]
+(0008FFEB){bascavr.exe } [00490FEB]
+(000900C2){bascavr.exe } [004910C2]
+(000903B7){bascavr.exe } [004913B7]
+(0049AB8A){bascavr.exe } [0089BB8A]
+------------------------------------------------------------------------------
+System   : Windows XP Professional, Version: 5.1, Build: A28, "Service Pack 3"
+Processor: Intel,        Intel(R) Core(TM) i5-3317U CPU @ 1.70GHz, 1720 MHz MMX SSE3 64 bits DEP
+Memory: 1023; free 764
+Display  : 1342x709 pixels, 32 bpp
+------------------------------------------------------------------------------
+List of loaded modules:
+[00340000] C:\Program Files\MCS Electronics\BASCOM-AVR\BSCAVRL.DLL
+<00400000> (no version info)
+[00400000] C:\Program Files\MCS Electronics\BASCOM-AVR\bascavr.exe
+           2.0.5.0 - 2.0.5.0
+           BASCOM-AVR IDE
+[01040000] C:\Program Files\MCS Electronics\BASCOM-AVR\BASC-AVR.DLL
+<00400000> 2.0.5.0 - 2.0.5.0
+           BASCOM-AVR Compiler
+[03050000] C:\Program Files\MCS Electronics\BASCOM-AVR\TVicPort.dll
+<10000000> 5.0.1.1 - 6.0
+           TVicPort Interface Library
+[031B0000] C:\Program Files\MCS Electronics\BASCOM-AVR\SaxComm7.ocx
+<10000000> 7.0.0.2182 - 7, 0, 0, 2182
+           Sax Comm Objects 7.0
+[03E30000] C:\WINDOWS\System32\spool\DRIVERS\W32X86\3\spd__du.dll
+<10000000> 6.2.39.0 - 6.02.39
+           Printer driver - Interface module
+[045D0000] C:\WINDOWS\System32\spool\DRIVERS\W32X86\3\spd__.dll
+<00400000> 0.3.0.0 - 3.10.98.00 built by: WinDDK
+           PostScript Printer Driver
+[04DC0000] C:\WINDOWS\SYSTEM32\SPOOL\DRIVERS\W32X86\3\SPD__UM.DLL
+<10000000> 0.3.59.0 - 0, 3, 59, 0
+           ColorFB6 Dynamic Link Library
+[04F00000] C:\WINDOWS\SYSTEM32\SPOOL\DRIVERS\W32X86\3\SPD__O.DLL
+<10000000> (no version info)
+[10000000] C:\Program Files\MCS Electronics\BASCOM-AVR\BASCPDF.DLL
+           1.0.0.1 - 1.0
+           PDF Reader DLL
+[4CDC0000] C:\WINDOWS\system32\msxml6.dll
+           6.20.1076.0 - 6.20.1076.0
+           MSXML 6.0 SP2
+[4EBE0000] C:\WINDOWS\WinSxS\x86_Microsoft.Windows.GdiPlus_6595b64144ccf1df_1.0.2600.5512_x-ww_dfb54e0c\gdiplus.dll
+           5.1.3102.5512 - 5.1.3102.5512 (xpsp.080413-2105)
+           Microsoft GDI+
+[59C60000] C:\WINDOWS\system32\DBGHELP.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2105)
+           Windows Image Helper
+[5B260000] C:\WINDOWS\system32\UxTheme.dll
+           6.0.2900.5512 - 6.00.2900.5512 (xpsp.080413-2105)
+           Библиотека тем UxTheme (Microsoft)
+[5F2F0000] C:\WINDOWS\system32\olepro32.dll
+           5.1.2600.5512 - 5.1.2600.5512
+[71A80000] C:\WINDOWS\system32\WS2HELP.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-0852)
+           Модуль поддержки Windows Socket 2.0 для Windows NT
+[71A90000] C:\WINDOWS\system32\WS2_32.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-0852)
+           Windows Socket 2.0 32-Bit DLL
+[71AB0000] C:\WINDOWS\system32\wsock32.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-0852)
+           32-разрядная библиотека Windows Socket
+[71B00000] C:\WINDOWS\system32\mpr.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-0852)
+           Библиотека маршрутизации для нескольких служб доступа
+[72FC0000] C:\WINDOWS\system32\winspool.drv
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-0852)
+           Драйвер диспетчера очереди Windows
+[746E0000] C:\WINDOWS\system32\MSCTF.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2105)
+           Библиотека (DLL) MSCTF-сервера
+[74C40000] C:\WINDOWS\system32\oleacc.dll
+           4.2.5406.0 - 4.2.5406.0 (xpclient.010817-1148)
+           Active Accessibility Core Component
+[75A40000] C:\WINDOWS\system32\MSVFW32.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-0845)
+           Библиотека Microsoft Video для Windows
+[76050000] C:\WINDOWS\system32\MSVCP60.dll
+           6.2.3104.0 - 6.02.3104.0
+           Microsoft (R) C++ Runtime Library
+[76350000] C:\WINDOWS\system32\msimg32.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2105)
+           GDIEXT Client DLL
+[76380000] C:\WINDOWS\system32\comdlg32.dll
+           6.0.2900.5512 - 6.00.2900.5512 (xpsp.080413-2105)
+           Библиотека общих диалоговых окон
+[76B20000] C:\WINDOWS\system32\winmm.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-0845)
+           MCI API DLL
+[76BE0000] C:\WINDOWS\system32\PSAPI.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2105)
+           Process Status Helper
+[76C80000] C:\WINDOWS\system32\imagehlp.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2105)
+           Windows NT Image Helper
+[76E70000] C:\WINDOWS\system32\rtutils.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-0852)
+           Routing Utilities
+[76EA0000] C:\WINDOWS\system32\TAPI32.DLL
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-0852)
+           Библиотека API телефонии Microsoft® Windows™
+[76FC0000] C:\WINDOWS\system32\CLBCATQ.DLL
+           2001.12.4414.700 - 2001.12.4414.700
+[77040000] C:\WINDOWS\system32\COMRes.dll
+           2001.12.4414.700 - 2001.12.4414.700
+[77110000] C:\WINDOWS\system32\oleaut32.dll
+           5.1.2600.5512 - 5.1.2600.5512
+[771A0000] C:\WINDOWS\system32\wininet.dll
+           6.0.2900.5512 - 6.00.2900.5512 (xpsp.080413-2105)
+           Расширения Интернета для Win32
+[773C0000] C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+           6.0.2900.5512 - 6.0 (xpsp.080413-2105)
+           User Experience Controls Library
+[774D0000] C:\WINDOWS\system32\ole32.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2108)
+           Microsoft OLE для  Windows
+[77910000] C:\WINDOWS\system32\SETUPAPI.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2111)
+           Windows Setup API
+[77A70000] C:\WINDOWS\system32\CRYPT32.dll
+           5.131.2600.5512 - 5.131.2600.5512 (xpsp.080413-2113)
+           API32 криптографии
+[77B10000] C:\WINDOWS\system32\MSASN1.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-0852)
+           ASN.1 Runtime APIs
+[77BF0000] C:\WINDOWS\system32\version.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2105)
+           Version Checking and File Installation Libraries
+[77C00000] C:\WINDOWS\system32\msvcrt.dll
+           7.0.2600.5512 - 7.0.2600.5512 (xpsp.080413-2111)
+           Windows NT CRT DLL
+[77DC0000] C:\WINDOWS\system32\ADVAPI32.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2113)
+           Расширенная библиотека API Windows 32
+[77E70000] C:\WINDOWS\system32\RPCRT4.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2108)
+           Remote Procedure Call Runtime
+[77F10000] C:\WINDOWS\system32\GDI32.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2105)
+           GDI Client DLL
+[77F60000] C:\WINDOWS\system32\SHLWAPI.dll
+           6.0.2900.5512 - 6.00.2900.5512 (xpsp.080413-2105)
+           Библиотека небольших программ оболочки
+[77FE0000] C:\WINDOWS\system32\Secur32.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2113)
+           Security Support Provider Interface
+[7C800000] C:\WINDOWS\system32\kernel32.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2111)
+           Библиотека клиента Windows NT BASE API
+[7C900000] C:\WINDOWS\system32\ntdll.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2111)
+           Системная библиотека NT
+[7C9C0000] C:\WINDOWS\system32\shell32.dll
+           6.0.2900.5512 - 6.00.2900.5512 (xpsp.080413-2105)
+           Общая библиотека оболочки Windows
+[7D1E0000] C:\WINDOWS\system32\msi.dll
+           3.1.4001.5512 - 3.1.4001.5512
+           Windows Installer
+[7E360000] C:\WINDOWS\system32\USER32.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2105)
+           Библиотека клиента USER API Windows XP
+[7E690000] C:\WINDOWS\system32\SXS.DLL
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2111)
+           Fusion 2.5
+------------------------------------------------------------------------------
+Active Controls hierarchy:
+TDCMemo "view"
+TMDICHild "MDIChild"
+------------------------------------------------------------------------------
+
+==============================================================================
+= 26.05.2013 19:59:24                                                        =
+==============================================================================
+Printer is not currently printing.
+
+Exception class: EPrinter
+Exception message: Printer is not currently printing.
+Exception address: 0045234E
+------------------------------------------------------------------------------
+Stack list, generated 26.05.2013 19:59:23
+(00051349){bascavr.exe } [00452349]
+(000518A6){bascavr.exe } [004528A6]
+(00051630){bascavr.exe } [00452630]
+(00039A11){bascavr.exe } [0043AA11]
+(0030A349){bascavr.exe } [0070B349]
+(0030A777){bascavr.exe } [0070B777]
+(0048ADAA){bascavr.exe } [0088BDAA]
+(001D7FD2){bascavr.exe } [005D8FD2]
+(001D7F6F){bascavr.exe } [005D8F6F]
+(001D7F2C){bascavr.exe } [005D8F2C]
+(001D8C62){bascavr.exe } [005D9C62]
+(001D76FE){bascavr.exe } [005D86FE]
+(001BCA6C){bascavr.exe } [005BDA6C]
+(001D771F){bascavr.exe } [005D871F]
+(001BCA6C){bascavr.exe } [005BDA6C]
+(001B8B5E){bascavr.exe } [005B9B5E]
+(001B1C01){bascavr.exe } [005B2C01]
+(001B1D3E){bascavr.exe } [005B2D3E]
+(001AAA80){bascavr.exe } [005ABA80]
+(001AAF42){bascavr.exe } [005ABF42]
+(001AB273){bascavr.exe } [005AC273]
+(00493700){bascavr.exe } [00894700]
+(0008FFEB){bascavr.exe } [00490FEB]
+(000900C2){bascavr.exe } [004910C2]
+(000903B7){bascavr.exe } [004913B7]
+(0049AB8A){bascavr.exe } [0089BB8A]
+------------------------------------------------------------------------------
+System   : Windows XP Professional, Version: 5.1, Build: A28, "Service Pack 3"
+Processor: Intel,        Intel(R) Core(TM) i5-3317U CPU @ 1.70GHz, 1700 MHz MMX SSE3 64 bits DEP
+Memory: 1023; free 762
+Display  : 1342x709 pixels, 32 bpp
+------------------------------------------------------------------------------
+List of loaded modules:
+[00340000] C:\Program Files\MCS Electronics\BASCOM-AVR\BSCAVRL.DLL
+<00400000> (no version info)
+[00400000] C:\Program Files\MCS Electronics\BASCOM-AVR\bascavr.exe
+           2.0.5.0 - 2.0.5.0
+           BASCOM-AVR IDE
+[01040000] C:\Program Files\MCS Electronics\BASCOM-AVR\BASC-AVR.DLL
+<00400000> 2.0.5.0 - 2.0.5.0
+           BASCOM-AVR Compiler
+[03050000] C:\Program Files\MCS Electronics\BASCOM-AVR\TVicPort.dll
+<10000000> 5.0.1.1 - 6.0
+           TVicPort Interface Library
+[031B0000] C:\Program Files\MCS Electronics\BASCOM-AVR\SaxComm7.ocx
+<10000000> 7.0.0.2182 - 7, 0, 0, 2182
+           Sax Comm Objects 7.0
+[03E30000] C:\WINDOWS\System32\spool\DRIVERS\W32X86\3\spd__du.dll
+<10000000> 6.2.39.0 - 6.02.39
+           Printer driver - Interface module
+[045D0000] C:\WINDOWS\System32\spool\DRIVERS\W32X86\3\spd__.dll
+<00400000> 0.3.0.0 - 3.10.98.00 built by: WinDDK
+           PostScript Printer Driver
+[04DC0000] C:\WINDOWS\SYSTEM32\SPOOL\DRIVERS\W32X86\3\SPD__UM.DLL
+<10000000> 0.3.59.0 - 0, 3, 59, 0
+           ColorFB6 Dynamic Link Library
+[04F00000] C:\WINDOWS\SYSTEM32\SPOOL\DRIVERS\W32X86\3\SPD__O.DLL
+<10000000> (no version info)
+[05270000] C:\WINDOWS\SYSTEM32\SPOOL\DRIVERS\W32X86\3\SPD__SC.DLL
+<10000000> 2.11.0.0 - 2, 11, 0, 0
+           SamsungCMS Dynamic Link Library
+[10000000] C:\Program Files\MCS Electronics\BASCOM-AVR\BASCPDF.DLL
+           1.0.0.1 - 1.0
+           PDF Reader DLL
+[4CDC0000] C:\WINDOWS\system32\msxml6.dll
+           6.20.1076.0 - 6.20.1076.0
+           MSXML 6.0 SP2
+[4EBE0000] C:\WINDOWS\WinSxS\x86_Microsoft.Windows.GdiPlus_6595b64144ccf1df_1.0.2600.5512_x-ww_dfb54e0c\gdiplus.dll
+           5.1.3102.5512 - 5.1.3102.5512 (xpsp.080413-2105)
+           Microsoft GDI+
+[59C60000] C:\WINDOWS\system32\DBGHELP.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2105)
+           Windows Image Helper
+[5B260000] C:\WINDOWS\system32\UxTheme.dll
+           6.0.2900.5512 - 6.00.2900.5512 (xpsp.080413-2105)
+           Библиотека тем UxTheme (Microsoft)
+[5F2F0000] C:\WINDOWS\system32\olepro32.dll
+           5.1.2600.5512 - 5.1.2600.5512
+[71A80000] C:\WINDOWS\system32\WS2HELP.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-0852)
+           Модуль поддержки Windows Socket 2.0 для Windows NT
+[71A90000] C:\WINDOWS\system32\WS2_32.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-0852)
+           Windows Socket 2.0 32-Bit DLL
+[71AB0000] C:\WINDOWS\system32\wsock32.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-0852)
+           32-разрядная библиотека Windows Socket
+[71B00000] C:\WINDOWS\system32\mpr.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-0852)
+           Библиотека маршрутизации для нескольких служб доступа
+[72FC0000] C:\WINDOWS\system32\winspool.drv
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-0852)
+           Драйвер диспетчера очереди Windows
+[746E0000] C:\WINDOWS\system32\MSCTF.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2105)
+           Библиотека (DLL) MSCTF-сервера
+[74C40000] C:\WINDOWS\system32\oleacc.dll
+           4.2.5406.0 - 4.2.5406.0 (xpclient.010817-1148)
+           Active Accessibility Core Component
+[75A40000] C:\WINDOWS\system32\MSVFW32.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-0845)
+           Библиотека Microsoft Video для Windows
+[76050000] C:\WINDOWS\system32\MSVCP60.dll
+           6.2.3104.0 - 6.02.3104.0
+           Microsoft (R) C++ Runtime Library
+[76350000] C:\WINDOWS\system32\msimg32.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2105)
+           GDIEXT Client DLL
+[76380000] C:\WINDOWS\system32\comdlg32.dll
+           6.0.2900.5512 - 6.00.2900.5512 (xpsp.080413-2105)
+           Библиотека общих диалоговых окон
+[76B20000] C:\WINDOWS\system32\winmm.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-0845)
+           MCI API DLL
+[76BE0000] C:\WINDOWS\system32\PSAPI.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2105)
+           Process Status Helper
+[76C80000] C:\WINDOWS\system32\imagehlp.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2105)
+           Windows NT Image Helper
+[76E70000] C:\WINDOWS\system32\rtutils.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-0852)
+           Routing Utilities
+[76EA0000] C:\WINDOWS\system32\TAPI32.DLL
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-0852)
+           Библиотека API телефонии Microsoft® Windows™
+[76FC0000] C:\WINDOWS\system32\CLBCATQ.DLL
+           2001.12.4414.700 - 2001.12.4414.700
+[77040000] C:\WINDOWS\system32\COMRes.dll
+           2001.12.4414.700 - 2001.12.4414.700
+[77110000] C:\WINDOWS\system32\oleaut32.dll
+           5.1.2600.5512 - 5.1.2600.5512
+[771A0000] C:\WINDOWS\system32\wininet.dll
+           6.0.2900.5512 - 6.00.2900.5512 (xpsp.080413-2105)
+           Расширения Интернета для Win32
+[773C0000] C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+           6.0.2900.5512 - 6.0 (xpsp.080413-2105)
+           User Experience Controls Library
+[774D0000] C:\WINDOWS\system32\ole32.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2108)
+           Microsoft OLE для  Windows
+[77910000] C:\WINDOWS\system32\SETUPAPI.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2111)
+           Windows Setup API
+[77A70000] C:\WINDOWS\system32\CRYPT32.dll
+           5.131.2600.5512 - 5.131.2600.5512 (xpsp.080413-2113)
+           API32 криптографии
+[77B10000] C:\WINDOWS\system32\MSASN1.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-0852)
+           ASN.1 Runtime APIs
+[77BF0000] C:\WINDOWS\system32\version.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2105)
+           Version Checking and File Installation Libraries
+[77C00000] C:\WINDOWS\system32\msvcrt.dll
+           7.0.2600.5512 - 7.0.2600.5512 (xpsp.080413-2111)
+           Windows NT CRT DLL
+[77DC0000] C:\WINDOWS\system32\ADVAPI32.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2113)
+           Расширенная библиотека API Windows 32
+[77E70000] C:\WINDOWS\system32\RPCRT4.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2108)
+           Remote Procedure Call Runtime
+[77F10000] C:\WINDOWS\system32\GDI32.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2105)
+           GDI Client DLL
+[77F60000] C:\WINDOWS\system32\SHLWAPI.dll
+           6.0.2900.5512 - 6.00.2900.5512 (xpsp.080413-2105)
+           Библиотека небольших программ оболочки
+[77FE0000] C:\WINDOWS\system32\Secur32.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2113)
+           Security Support Provider Interface
+[7C800000] C:\WINDOWS\system32\kernel32.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2111)
+           Библиотека клиента Windows NT BASE API
+[7C900000] C:\WINDOWS\system32\ntdll.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2111)
+           Системная библиотека NT
+[7C9C0000] C:\WINDOWS\system32\shell32.dll
+           6.0.2900.5512 - 6.00.2900.5512 (xpsp.080413-2105)
+           Общая библиотека оболочки Windows
+[7D1E0000] C:\WINDOWS\system32\msi.dll
+           3.1.4001.5512 - 3.1.4001.5512
+           Windows Installer
+[7E360000] C:\WINDOWS\system32\USER32.dll
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2105)
+           Библиотека клиента USER API Windows XP
+[7E690000] C:\WINDOWS\system32\SXS.DLL
+           5.1.2600.5512 - 5.1.2600.5512 (xpsp.080413-2111)
+           Fusion 2.5
+------------------------------------------------------------------------------
+Active Controls hierarchy:
+TDCMemo "view"
+TMDICHild "MDIChild"
+------------------------------------------------------------------------------
